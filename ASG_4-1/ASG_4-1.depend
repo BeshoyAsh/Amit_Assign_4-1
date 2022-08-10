@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660152429 source:f:\amit embedded\assignments\assign 4\asg_4-1\main.c
+	<stdio.h>
+	<stdlib.h>
+
